@@ -38,7 +38,6 @@ public class UserRepositories {
 
     @GetMapping("{user}")
     public List<?> getAllReposFromUser(@PathVariable String user) {
-
         try {
             HttpHeaders headers = new HttpHeaders();
             headers.set(HttpHeaders.ACCEPT, MediaType.APPLICATION_JSON_VALUE);

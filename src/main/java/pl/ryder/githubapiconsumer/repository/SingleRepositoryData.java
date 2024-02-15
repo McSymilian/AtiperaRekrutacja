@@ -8,5 +8,4 @@ public record SingleRepositoryData(
         Owner owner,
         String branches_url,
         Boolean fork
-) {
-}
+) {}

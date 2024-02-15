@@ -8,5 +8,4 @@ public record SingleRepositoryResponse(
         String name,
         String owner_login,
         List<BranchResponse> branches
-) {
-}
+) {}
