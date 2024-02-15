@@ -8,7 +8,7 @@ As a response, the JSON will be returned in the format
 ```
 {
     "name": ${repositoryName},
-    "login":${ownerLogin},
+    "owner_login":${ownerLogin},
     "branches":  [{
          "name": ${branchName}
          "sha": ${lastCommitSha}
