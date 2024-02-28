@@ -3,10 +3,10 @@ package pl.ryder.githubapiconsumer.github;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClient;
-import pl.ryder.githubapiconsumer.usersrepositories.repository.branch.Branch;
+import pl.ryder.githubapiconsumer.usersrepositories.githubrepository.branch.Branch;
 import pl.ryder.githubapiconsumer.exception.ExceptionResponse;
 import pl.ryder.githubapiconsumer.exception.NoSuchUserException;
-import pl.ryder.githubapiconsumer.usersrepositories.repository.SingleRepositoryData;
+import pl.ryder.githubapiconsumer.usersrepositories.githubrepository.SingleRepositoryData;
 
 import java.util.HashMap;
 import java.util.List;

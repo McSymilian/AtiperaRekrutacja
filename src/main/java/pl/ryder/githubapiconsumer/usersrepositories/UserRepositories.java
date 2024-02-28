@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import pl.ryder.githubapiconsumer.exception.ExceptionAnswer;
 import pl.ryder.githubapiconsumer.exception.NoSuchUserException;
-import pl.ryder.githubapiconsumer.usersrepositories.repository.SingleRepositoryResponse;
+import pl.ryder.githubapiconsumer.usersrepositories.githubrepository.SingleRepositoryResponse;
 
 import java.util.List;
 

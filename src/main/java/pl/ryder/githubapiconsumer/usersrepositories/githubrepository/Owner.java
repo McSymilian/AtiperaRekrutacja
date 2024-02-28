@@ -1,4 +1,4 @@
-package pl.ryder.githubapiconsumer.usersrepositories.repository;
+package pl.ryder.githubapiconsumer.usersrepositories.githubrepository;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

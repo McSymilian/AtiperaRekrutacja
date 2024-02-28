@@ -2,9 +2,9 @@ package pl.ryder.githubapiconsumer.usersrepositories;
 
 
 import org.springframework.stereotype.Service;
-import pl.ryder.githubapiconsumer.usersrepositories.repository.branch.BranchResponse;
+import pl.ryder.githubapiconsumer.usersrepositories.githubrepository.branch.BranchResponse;
 import pl.ryder.githubapiconsumer.github.GitHubService;
-import pl.ryder.githubapiconsumer.usersrepositories.repository.SingleRepositoryResponse;
+import pl.ryder.githubapiconsumer.usersrepositories.githubrepository.SingleRepositoryResponse;
 
 import java.util.List;
 
