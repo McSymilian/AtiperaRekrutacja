@@ -1,6 +1,6 @@
-# Atipiera  Rekrutacja
+# GitHub REST client demo
 
-### Recruitment assignment for Atipiera.
+### Manual
 
 After starting the application, all you have to do is send a GET request to `localhost:8081/repos/{USERNAME}` 
 with the appropriate variable in the query. 
