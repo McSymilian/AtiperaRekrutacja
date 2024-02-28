@@ -1,4 +1,4 @@
-package pl.ryder.githubapiconsumer.branch;
+package pl.ryder.githubapiconsumer.usersrepositories.repository.branch;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

@@ -1,9 +1,8 @@
-package pl.ryder.githubapiconsumer.branch;
+package pl.ryder.githubapiconsumer.usersrepositories.repository;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
-public record Branch (
-        String name,
-        Commit commit
+public record Owner(
+        String login
 ) {}

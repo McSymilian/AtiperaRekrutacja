@@ -1,6 +1,6 @@
-package pl.ryder.githubapiconsumer.repository;
+package pl.ryder.githubapiconsumer.usersrepositories.repository;
 
-import pl.ryder.githubapiconsumer.branch.BranchResponse;
+import pl.ryder.githubapiconsumer.usersrepositories.repository.branch.BranchResponse;
 
 import java.util.List;
 
